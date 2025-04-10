@@ -1,0 +1,4 @@
+Welcome to the quiz
+You may choose the type of quiz you play
+To answer questions enter option or option number
+Answers are capital sensitive

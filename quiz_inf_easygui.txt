@@ -1,0 +1,7 @@
+Welcome to the quiz
+You may choose the type of quiz you play
+To answer a question press the box you think is the answer
+You can skip any question
+You can finish the quiz at any question
+You will receive your quiz details at the end of the quiz
+Have fun!
